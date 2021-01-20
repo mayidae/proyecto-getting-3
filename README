@@ -50,3 +50,4 @@ Lo que se pide es reemplazarlas por los nombre completos en el marco de datos y 
 5. A partir del conjunto de datos del paso 4, crea un segundo conjunto de datos ordenado e independiente con el promedio de cada variable para cada actividad y cada tema.
 
 Se crea un nuevo conjunto de datos agrupando por sujeto y actividad, luego se pide un resumen con la función funs, finalmente se escribe una nueba
+md 

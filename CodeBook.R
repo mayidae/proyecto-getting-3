@@ -133,3 +133,4 @@ Datos2 <- Datos %>%
 write.table(Datos2, "Datos2.txt", row.name=FALSE)
 str(Datos2)
 
+md 
